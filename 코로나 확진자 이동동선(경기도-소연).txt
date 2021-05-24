@@ -1,0 +1,75 @@
+C:\Users\KUSHY\.conda\envs
+---------------------------------------------------------------------------------------------
+[장소유형 공개]
+---------------------------------------------------------------------------------------------
+남양주시 https://www.nyj.go.kr/corona.htm -----------> 5/24. 4:30am 사이트 에러
+(블로그: https://blog.naver.com/nyjloving/222349635947)
+
+고양시 http://www.goyang.go.kr/www/emergencyPopup/BD_selectCoronaPopupPath.do
+
+광주시 https://www.gwangju.go.kr/c19/contentsView.do?pageId=corona30
+
+**********구리 나중에************
+구리시 https://www.guri.go.kr/brd/board/6893/L/menu/6894?brdType=L&searchField=&searchText=&thisPage=2&type=
+- 키워드 [구리시 #숫자~#숫자 확진자 발생 (날짜(5.11.)] 링크 들어가서 장소유형 카운트
+
+부천시 https://www.bucheon.go.kr/site/main/corona#none
+- 현재 공개된 '장소유형' 있음. 개인정보보호법에 의해 급한 경우에만 공개
+
+수원 https://www.suwon.go.kr/web/safesuwon/corona/PD_index.do
+- 현재 공개된 '장소유형' 있음.
+
+시흥시 https://www.siheung.go.kr/corona_place.jsp
+- 공개된 '장소유형' 있음
+
+인천 https://www.incheon.go.kr/health/HE020409
+
+여주 https://www.yeoju.go.kr/corona.jsp
+
+이천시 https://www.icheon.go.kr/portal/contents.do?key=3568
+
+화성시 https://www.hscity.go.kr/www/corona/corona.do
+
+파주시 https://www.paju.go.kr/user/board/BD_board.list.do?bbsCd=9049
+
+집단발생 http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=12&ncvContSeq=&contSeq=&board_id=&gubun=
+
+---------------------------------------------------------------------------------------------
+현재 공개된 '장소유형'이 없어 크롤링 불가 지역
+---------------------------------------------------------------------------------------------
+[전체 공개 형식 존재]
+가평군 https://www.gp.go.kr/intro_gp.jsp
+- 현재 공개된 경로 없음
+
+김포시 https://www.gimpo.go.kr/portal/contents.do?key=5737
+- 현재 공개된 경로 없음
+
+안산시 https://www.ansan.go.kr/www/coronaBoardN.do
+- 현재 공개된 경로 없음
+
+연천군 https://www.yeoncheon.go.kr/covid19/selectCoronaStatistics.do
+
+오산시 https://www.osan.go.kr/corona_index.jsp
+
+용인시 https://corona.yongin.go.kr/index.do
+---------------------------------------------------------------------------------------------
+[전체공개 형식X]
+과천시 https://www.gccity.go.kr/main/board/bbs.do?mCode=F100010000&cfgIdx=237
+- 관내/관외 위주로 공개, 접촉자 문자로 개별 연락(ex."ㅇㅇ식당 방문자 코로나 검사 요망")
+
+광명시 https://www.gm.go.kr/pt/coronaIntro/coronaIntro.do
+- 확진자 조치 사항 위주로 공개
+
+군포시 https://www.gunpo.go.kr/intro.jsp
+- 확진자 방문장소 공개X, 역학조사관에 의해 접촉자 개별 연락
+
+동두천시 https://www.ddc.go.kr/
+- 접촉자 개별연락
+
+성남시 https://corona.seongnam.go.kr/#page
+- 감염경로 위주 공개 (신원이 특정되지 않은 접촉자가 있어 공개할 필요가 있는 경우에만 공개)
+---------------------------------------------------------------------------------------------
+
+※ 집단발생
+- 집단발생 관련 “반복대량 노출장소”는 중앙방역대책본부에서 공개*하므로 ★지자체에서 공개하지 않아 따로 처리
+http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=12&ncvContSeq=&contSeq=&board_id=&gubun=
